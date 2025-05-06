@@ -69,12 +69,12 @@ For a 512x512 matrix on a 4-core CPU:
 - `benchmarks/bench_multithread.cpp`: Performance benchmarks.
 - `CMakeLists.txt`: Build configuration.
 
-## Relevance to Ziroh Labs
-This project aligns with Ziroh Labs' mission to optimize AI model execution on CPUs for Kompact AI. It demonstrates:
-- **C++ Proficiency**: Low-level memory management, move semantics, and SIMD (AVX2).
-- **Algorithm Design**: Math-heavy matrix operations with numerical stability.
-- **Performance Optimization**: Multi-threading and SIMD for CPU efficiency.
-- **Code Quality**: Modular, tested code with comprehensive documentation.
+## Relevance to AI and High-Performance Computing
+This project demonstrates skills critical for optimizing AI model execution on CPUs. It showcases:
+- **C++ Proficiency**: Low-level memory management, move semantics, and SIMD (AVX2) for efficient computation.
+- **Algorithm Design**: Math-heavy matrix operations with numerical stability for robust AI workloads.
+- **Performance Optimization**: Multi-threading and SIMD to maximize CPU efficiency.
+- **Code Quality**: Modular, rigorously tested code with comprehensive documentation.
 
 ## License
 MIT License
